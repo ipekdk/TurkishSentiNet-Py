@@ -1,3 +1,5 @@
+https://starlangyazilim.com/duygu-analizi-sentiment-analysis-nedir/
+
 Turkish Sentiment Lexicon (HisNet)
 ============
 
